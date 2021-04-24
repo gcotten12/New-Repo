@@ -1,0 +1,4 @@
+Added new repo by clicking +
+Gave a name and created
+CLicked setup in desktop
+cloned
